@@ -1,0 +1,9 @@
+fastdtw==0.3.4
+keyboard==0.13.5
+numpy==1.25.2
+pillow=10.0.0
+scikit-image @ file:///opt/concourse/worker/volumes/live/584d0455-dcb7-4cf1-5977-c077944180ee/volume/scikit-image_1648214186784/work
+scikit-learn @ file:///opt/concourse/worker/volumes/live/cffa5efe-beec-4a37-5774-350794e43990/volume/scikit-learn_1642617139916/work
+scikit-learn-intelex==2021.20221004.121333
+scipy==1.9.1
+
